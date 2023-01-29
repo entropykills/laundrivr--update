@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Laundrivr Updates</title>
-<!--         <item>
-            <title>Version 1.0.6</title>
-            <description>Description Here</description>
-            <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
+        <item>
+            <title>Version 1.0.6+10</title>
+            <description>Added app-updating with appcast</description>
+            <pubDate>Tue, 28 Jan 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.laundrivr.laundrivr" sparkle:version="1.0.6" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
-        </item> -->
+        </item>
+        <item>
+            <title>Version 1.0.6+10</title>
+            <description>Added app-updating with appcast</description>
+            <pubDate>Tue, 28 Jan 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/laundrivr/id6444505198" sparkle:version="1.0.6" sparkle:os="ios" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+        </item>
     </channel>
 </rss>
